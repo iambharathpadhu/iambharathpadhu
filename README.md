@@ -2,7 +2,9 @@
 
 **Welcome to Barath's Github Profile**
 
-<img src="https://avatars.githubusercontent.com/u/53510578?v=4" alt="barath" width="370" height="290" align="top"/>
+<img src="[https://avatars.githubusercontent.com/u/53510578?v=4](https://cdn.dribbble.com/users/914722/screenshots/3205169/happy-freelance-designer.png?resize=400x300&vertical=center)" alt="barath" width="370" height="290" align="right"/>
+
+
 <!--
 **iambharathpadhu/iambharathpadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
