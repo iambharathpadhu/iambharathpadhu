@@ -1,21 +1,20 @@
-### Hi there 👋 
+## Hi there 👋 Welcome to Barath's Gtihub
 
-**Welcome to Barath's Github Profile**
+Software Engineer @ Assembly
+<img align="right" width="370" height="290" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+- 🔭 Here's my [portfolio](https://iambharathpadhu.netlify.app/)                                                 
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iambharathpadhu) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/barath-kumar-padmanaban/)
 
-<img src="https://cdn.dribbble.com/users/914722/screenshots/3205169/happy-freelance-designer.png?resize=800x600&vertical=center" alt="barath" width="370" height="290" align="right"/>
+### I code in
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 
-<!--
-**iambharathpadhu/iambharathpadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Barath's github activity graph][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iambharathpadhu&bg_color=ffffff&color=0b090b&line=423841&point=e92525&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
