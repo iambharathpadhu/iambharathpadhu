@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-** Welcome to Barath's Github Profile ! **
+**Welcome to Barath's Github Profile**
 
-<img src="https://avatars.githubusercontent.com/u/53510578?v=4" alt="barath" width="370" height="290" align="right"/>
+<img src="https://avatars.githubusercontent.com/u/53510578?v=4" alt="barath" width="370" height="290" align="top"/>
 <!--
 **iambharathpadhu/iambharathpadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
