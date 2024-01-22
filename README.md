@@ -2,8 +2,7 @@
 
 **Welcome to Barath's Github Profile**
 
-<img src="![image](https://github.com/iambharathpadhu/iambharathpadhu/assets/53510578/0a4627f1-2ac1-422c-9d73-31c29be10991)
-" alt="barath" width="370" height="290" align="right"/>
+<img src="https://cdn.dribbble.com/users/914722/screenshots/3205169/happy-freelance-designer.png?resize=800x600&vertical=center" alt="barath" width="370" height="290" align="right"/>
 
 
 <!--
