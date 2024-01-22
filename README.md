@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-**Welcome to Barath's Github Profile ! **
+** Welcome to Barath's Github Profile ! **
 
 <img src="https://avatars.githubusercontent.com/u/53510578?v=4" alt="barath" width="370" height="290" align="right"/>
 <!--
