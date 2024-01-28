@@ -6,7 +6,8 @@ Software Engineer @ Assembly
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iambharathpadhu) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/barath-kumar-padmanaban/)
 
 ### I code in
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+ <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img width="50" height="50" src="https://img.icons8.com/bubbles/50/react.png" alt="react"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
