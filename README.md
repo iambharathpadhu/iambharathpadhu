@@ -9,8 +9,4 @@ Software Engineer @[chaineapp](https://github.com/chaineapp) — building fintec
 - **[vault-harness](https://github.com/iambharathpadhu/vault-harness)** — minimal AI harness over a personal knowledge-base vault
 - **[carrier-search-app](https://github.com/iambharathpadhu/carrier-search-app)** — carrier selection wizard for freight brokers
 
-<br />
-
-<img src="https://github-readme-stats-five-eta-60.vercel.app/api?username=iambharathpadhu&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=1800" alt="Barath's GitHub stats" height="165" />
-
 **Reach me:** [Portfolio](https://iambharathpadhu.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/barath-kumar-padmanaban/) · [Twitter/X](https://twitter.com/iambharathpadhu)
